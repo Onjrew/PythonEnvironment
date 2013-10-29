@@ -10,7 +10,6 @@
 		49201FDA181D54980007A694 /* HelloWorld.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = HelloWorld.py; sourceTree = "<group>"; };
 		49201FDC181F45190007A694 /* Launcher.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Launcher.py; sourceTree = "<group>"; };
 		49201FDD181F46180007A694 /* HelloWorld2 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HelloWorld2; sourceTree = "<group>"; };
-		4991F484181F5C8500E161EC /* Test.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Test.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -18,7 +17,6 @@
 			isa = PBXGroup;
 			children = (
 				49201FDC181F45190007A694 /* Launcher.py */,
-				4991F484181F5C8500E161EC /* Test.py */,
 				49201FDA181D54980007A694 /* HelloWorld.py */,
 				49201FDD181F46180007A694 /* HelloWorld2 */,
 			);
